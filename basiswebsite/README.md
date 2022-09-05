@@ -16,16 +16,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Lisanne Meeuwissen
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  Blauw
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  surface plane
  
 </details>
-
+Ik ga de website van Wagamama na maken. https://www.wagamama.nl/.
+Dit is de website van het restaurant waar ik werk en de website is mooi vormgegeven en heeft veel kleine animaties waardoor ik denk dat ik zonder de ervaring om een website te maken ik kan beginnen met de basis elementen en later kan gaan focussen op de kleine interacties en animaties.
 
 
 
