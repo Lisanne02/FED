@@ -25,7 +25,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   surface plane
  
 </details>
-Ik ga de website van het moco museum maken https://mocomuseum.com/about-moco
+Ik ga de website van Wagamama maken https://www.wagamama.nl/
 
 
 
