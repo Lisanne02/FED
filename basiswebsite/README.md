@@ -25,8 +25,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   surface plane
  
 </details>
-Ik ga de website van Wagamama na maken. https://www.wagamama.nl/.
-Dit is de website van het restaurant waar ik werk en de website is mooi vormgegeven en heeft veel kleine animaties waardoor ik denk dat ik zonder de ervaring om een website te maken ik kan beginnen met de basis elementen en later kan gaan focussen op de kleine interacties en animaties.
+Ik ga de website van het moco museum maken https://mocomuseum.com/about-moco
 
 
 
